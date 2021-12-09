@@ -1,0 +1,10 @@
+{
+	"name": "powerquery1",
+	"properties": {
+		"description": "adasd",
+		"type": "WranglingDataFlow",
+		"typeProperties": {
+			"sources": []
+		}
+	}
+}
