@@ -1,0 +1,9 @@
+{
+	"name": "adf-ctrex-demo1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b29df843-767d-44a4-ad2e-a9fe3c510a19",
+		"tenantId": "22dab436-216a-4962-87af-219adad93a22"
+	}
+}
